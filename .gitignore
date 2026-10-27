@@ -107,3 +107,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# The Unity project is stored in the LVL1GAMES subdirectory of this repository.
+# Keep its generated Unity files out of version control as well.
+/LVL1GAMES/[Ll]ibrary/
+/LVL1GAMES/[Tt]emp/
+/LVL1GAMES/[Oo]bj/
+/LVL1GAMES/[Bb]uild/
+/LVL1GAMES/[Bb]uilds/
+/LVL1GAMES/[Ll]ogs/
+/LVL1GAMES/[Uu]ser[Ss]ettings/
